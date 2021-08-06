@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
     // java, layout
     // drawable
     // values
-    // themes까지
+    // themes까지 - No Actionbar
 
     // 7. HW 정확한 ID와 PW 넣었을때만 다음 액티비티로 넘어가게 하기!
 
